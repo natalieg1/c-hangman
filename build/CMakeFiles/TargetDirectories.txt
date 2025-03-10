@@ -1,7 +1,0 @@
-/Users/nataliegreenfield/c-hangman/build/CMakeFiles/hangman.dir
-/Users/nataliegreenfield/c-hangman/build/CMakeFiles/edit_cache.dir
-/Users/nataliegreenfield/c-hangman/build/CMakeFiles/rebuild_cache.dir
-/Users/nataliegreenfield/c-hangman/build/CMakeFiles/list_install_components.dir
-/Users/nataliegreenfield/c-hangman/build/CMakeFiles/install.dir
-/Users/nataliegreenfield/c-hangman/build/CMakeFiles/install/local.dir
-/Users/nataliegreenfield/c-hangman/build/CMakeFiles/install/strip.dir

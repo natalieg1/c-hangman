@@ -38,7 +38,7 @@ This is a classic Hangman game where players try to guess a word letter by lette
 
 2. Configure and build with CMake:
    ```bash
-   cmake ..
+   cmake .
    cmake --build .
    ```
 
@@ -47,7 +47,6 @@ This is a classic Hangman game where players try to guess a word letter by lette
 After building, run the executable:
 
 ```bash
-# From the build directory
 ./hangman
 ```
 
