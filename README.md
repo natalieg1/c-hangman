@@ -38,8 +38,6 @@ This is a classic Hangman game where players try to guess a word letter by lette
 
 2. Configure and build with CMake:
    ```bash
-   mkdir build
-   cd build
    cmake ..
    cmake --build .
    ```
